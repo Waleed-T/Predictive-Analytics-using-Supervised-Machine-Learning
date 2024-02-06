@@ -42,8 +42,13 @@ Fare: The passenger fare.
 Cabin: The cabin number.
 
 Main Python libraries to use:
+
 • scikit-learn (a Python library that features various classification, regression, and clustering algorithms) https://scikit- learn.org/stable/
+
 • pandas https://pandas.pydata.org/docs/
+
 • NumPy https://numpy.org/
+
 • Matplotlib https://matplotlib.org/
+
 • seaborn: statistical data visualisation https://seaborn.pydata.org/
